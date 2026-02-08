@@ -19,24 +19,7 @@ color: #F4F4FD;
     color: #4D5AE5;
 }
 
-.page-nav {
-    list-style: none;
 
-    
-}
-.page-address {
-    list-style: none;
-}
-
-.team-list {
-    list-style: none;
-   
-}
-.port {
-    list-style: none;
-}
-.feat {
-    list-style: none;   }
 .page-nav .link { 
     font-family: "Roboto", sans-serif;
     font-weight: bold;
@@ -51,7 +34,6 @@ color: #F4F4FD;
 }
 .page-address .link { 
     font-family: "Roboto", sans-serif;
-    font-style: normal;
     font-weight: normal;
     font-size: 12px;
     line-height: 16px;
@@ -63,10 +45,6 @@ color: #F4F4FD;
 .page-address .link:focus {
     color: #404BBF;
 }
-body{
-    font-family: "Roboto", "Montserrat", "Raleway", sans-serif;
-}
-
 h1 {
     color: #FFFFFF;
     font-family: "Roboto", sans-serif;
@@ -76,7 +54,7 @@ h1 {
     letter-spacing: 2%;
     text-align: center;
 }
-.intro {
+.hero {
     background-color: #2E2F42;
 }
 .button {
