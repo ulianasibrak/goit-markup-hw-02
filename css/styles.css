@@ -39,10 +39,10 @@ color: #F4F4FD;
     list-style: none;   }
 .page-nav .link { 
     font-family: "Roboto", sans-serif;
-    font-weight: bold;
-    font-size: 12px;
-    line-height: 16px;
-    letter-spacing: 4%;
+    font-weight: medium;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 2%;
     text-decoration: none;
     color: #2E2F42;
 }
@@ -51,12 +51,12 @@ color: #F4F4FD;
 }
 .page-address .link { 
     font-family: "Roboto", sans-serif;
-    font-style: normal;
-    font-weight: normal;
+    font-weight: medium;
     font-size: 12px;
     line-height: 16px;
-    letter-spacing: 4%;
+    letter-spacing: 2%;
     text-decoration: none;
+    font-style: normal;
     color: #434455;
 }
 .page-address .link:hover, 
@@ -76,7 +76,7 @@ h1 {
     letter-spacing: 2%;
     text-align: center;
 }
-.intro {
+#intro {
     background-color: #2E2F42;
 }
 .button {
@@ -86,8 +86,7 @@ h1 {
     font-weight: medium;
     font-size: 16px;
     line-height: 24px;
-    letter-spacing: 4%;
-    text-decoration: underline;
+    letter-spacing: 2%;
     cursor: pointer;
 }
 .button:hover {
@@ -96,7 +95,7 @@ h1 {
 .feature {
     color: #2E2F42;
     font-family: "Roboto", sans-serif;
-    font-weight: bold;
+    font-weight: medium;
     font-size: 20px;
     letter-spacing: 2%;
 }
