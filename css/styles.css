@@ -82,7 +82,7 @@ h1 {
     letter-spacing: 0.02em;
     text-align: center;
 }
-#intro {
+.hero {
     background-color: #2E2F42;
 }
 .button {
