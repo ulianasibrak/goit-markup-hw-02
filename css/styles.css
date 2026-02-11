@@ -1,7 +1,8 @@
 
 body {
     font-family: "Roboto", "Montserrat", "Raleway", sans-serif;
-    color: #4D5AE5;
+    color: #2E2F42;
+    background-color: #FFFFFF;
 }
 
 header {
@@ -43,7 +44,6 @@ ol {
 
 .page-nav .link { 
     font-family: "Roboto", sans-serif;
-    font-weight: medium;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -60,7 +60,7 @@ ol {
 .page-address .link { 
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     text-decoration: none;
@@ -170,7 +170,7 @@ h2 {
 .footer-description {
     font-family: "Roboto", sans-serif;
     font-weight: 400;
-    font-size: 12px;
+    font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
 color: #F4F4FD;}
