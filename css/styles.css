@@ -52,8 +52,8 @@ ol {
     color: #2E2F42;
 }
 
-.page-nav .link:hover,
-.page-nav .link:focus {
+.nav-link:hover,
+.nav-link:focus {
     color: #404BBF;
 }
 
